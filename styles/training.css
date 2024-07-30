@@ -117,7 +117,7 @@ Main
 main {
     display: grid;
     padding-bottom: .75rem;
-    background-color: honeydew;
+    background-color: rgb(2, 74, 183) ;
    }
 
 h1  {
@@ -229,7 +229,7 @@ p {
 FORM
 ********************************/
 .formPage {
-    color: black;
+    color: rgb(241, 235, 235);
     font-size: 1.5rem;
 }
 
@@ -264,6 +264,10 @@ FORM
     padding: .75rem;
     width: 100%;
     max-width: 400px;
+}
+
+#name, #rev {
+    margin-top: 2rem;
 }
 
 .wk5 button {

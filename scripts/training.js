@@ -16,6 +16,8 @@ hamburgerElement.addEventListener('click', () => {
 
 //**********************blowers******************//
 
+
+
 const blowers = [
     {
         blowerName: "Stihl BR 86 Handheld",
